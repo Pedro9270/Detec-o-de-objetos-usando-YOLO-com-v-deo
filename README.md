@@ -44,9 +44,8 @@ YOLO/
 Resultados
 Detecção de Objetos no Vídeo
 
-Coloque aqui uma captura de tela mostrando a detecção dos objetos durante a execução do vídeo.
+<img width="577" height="420" alt="image" src="https://github.com/user-attachments/assets/1eb7d9a1-ab57-409f-9c41-c021514f75d5" />
 
-![Detecção no vídeo](imagens/deteccao_video.png)
 Gráfico de Tempo de Processamento
 
 Coloque aqui o gráfico gerado automaticamente pelo sistema contendo o tempo de processamento dos modelos.
