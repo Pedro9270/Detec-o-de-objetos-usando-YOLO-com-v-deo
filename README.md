@@ -175,13 +175,5 @@ plt.savefig("grafico_acuracia.png", dpi=300)
 plt.show()
 
 print("\nAnálise concluída!")
-Como Executar
-Instalar dependências
-pip install ultralytics matplotlib numpy torch torchvision torchaudio opencv-python
-Executar o projeto
-python YOLO.py
-Observações
-O projeto foi executado utilizando GPU NVIDIA com CUDA.
-Os resultados podem variar dependendo do hardware utilizado.
 A qualidade do vídeo influencia diretamente na precisão das detecções.
 Os gráficos são gerados automaticamente após a execução do sistema.
