@@ -31,8 +31,7 @@ Gráfico de Acurácia Média
 <img width="831" height="415" alt="image" src="https://github.com/user-attachments/assets/1d145a4e-b3e3-406e-b59f-3159a76beb80" />
 
 Resultados Obtidos
-Modelo	Acurácia Média	Tempo
 
-YOLOv8x	77.8%	9.1s
-YOLOv9e	82.4%	11.8s
-YOLO11x	80.3%	8.0s
+YOLOV8X -> 77.8% 9.1s
+YOLOv9e -> 82.4% 11.8s
+YOLO11x -> 80.3% 8.0s
