@@ -17,30 +17,6 @@ geração automática de gráficos comparativos de desempenho e acurácia.
 
 O objetivo do projeto é analisar o equilíbrio entre velocidade de inferência e precisão das detecções em diferentes versões da arquitetura YOLO, utilizando aceleração por GPU via CUDA.
 
-Tecnologias Utilizadas
-Python
-Ultralytics
-PyTorch
-CUDA
-OpenCV
-Matplotlib
-NumPy
-Visual Studio Code
-Estrutura do Projeto
-YOLO/
-│
-├── YOLO.py
-├── videoplayback.mp4
-├── grafico_tempo.png
-├── grafico_acuracia.png
-├── requirements.txt
-│
-├── imagens/
-│   ├── deteccao_video.png
-│   ├── grafico_tempo.png
-│   └── grafico_acuracia.png
-│
-└── README.md
 Resultados
 Detecção de Objetos no Vídeo
 
@@ -48,14 +24,12 @@ Detecção de Objetos no Vídeo
 
 Gráfico de Tempo de Processamento
 
-Coloque aqui o gráfico gerado automaticamente pelo sistema contendo o tempo de processamento dos modelos.
+<img width="828" height="413" alt="image" src="https://github.com/user-attachments/assets/8fe8a362-9991-4933-836e-032791f67e96" />
 
-![Gráfico de Tempo](imagens/grafico_tempo.png)
 Gráfico de Acurácia Média
 
-Coloque aqui o gráfico gerado automaticamente pelo sistema contendo a média de confiança/acurácia dos modelos.
+<img width="831" height="415" alt="image" src="https://github.com/user-attachments/assets/1d145a4e-b3e3-406e-b59f-3159a76beb80" />
 
-![Gráfico de Acurácia](imagens/grafico_acuracia.png)
 Resultados Obtidos
 Modelo	Acurácia Média	Tempo
 YOLOv8x	77.8%	9.1s
