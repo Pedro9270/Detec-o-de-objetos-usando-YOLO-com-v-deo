@@ -22,6 +22,8 @@ Detecção de Objetos no Vídeo
 
 <img width="577" height="420" alt="image" src="https://github.com/user-attachments/assets/1eb7d9a1-ab57-409f-9c41-c021514f75d5" />
 
+LInk do vídeo original: https://youtu.be/6n9QG-i1MAk?si=PNj3YsyjuuiUizTw
+
 Gráfico de Tempo de Processamento
 
 <img width="828" height="413" alt="image" src="https://github.com/user-attachments/assets/8fe8a362-9991-4933-836e-032791f67e96" />
