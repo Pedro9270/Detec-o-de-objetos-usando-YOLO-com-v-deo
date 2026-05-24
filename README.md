@@ -32,6 +32,7 @@ Gráfico de Acurácia Média
 
 Resultados Obtidos
 Modelo	Acurácia Média	Tempo
+
 YOLOv8x	77.8%	9.1s
 YOLOv9e	82.4%	11.8s
 YOLO11x	80.3%	8.0s
